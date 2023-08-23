@@ -1,0 +1,5 @@
+{{#user}}
+Name:Anand Agarwal
+Skills:HTML,CSS,JS,Java,Problem Solving
+Email:anandagarwal17may@gmail.com
+{{/user}}
